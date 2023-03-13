@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
   res.send(`
   
   
-  <h1> <a href="http://localhost:4000/news">Link to actual news app page</a> </h1>
+  <h1> <a href="https://news-app-project.onrender.com/news">Link to actual news app page</a> </h1>
   
   `);
 });
